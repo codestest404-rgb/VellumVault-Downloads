@@ -14,11 +14,11 @@ It does not contain VellumVault source code, private campaign data, exported bac
 ## Download
 
 - Website: https://codestest404-rgb.github.io/VellumVault-Downloads/
-- Release 0.1.3: https://github.com/codestest404-rgb/VellumVault-Downloads/releases/tag/v0.1.3
+- Release 0.1.4: https://github.com/codestest404-rgb/VellumVault-Downloads/releases/tag/v0.1.4
 
 ## Current Public Alpha
 
-- `VellumVault_0.1.3_x64-setup.exe`
-- SHA-256: `865003B9BD6C88FC67DD519E2256784F9F3635F1E84632B4F48A261E6459AA17`
+- `VellumVault_0.1.4_x64-setup.exe`
+- SHA-256: `C78C1C1BE39A38ECCA4AA3757B2053B3BD505BAF366219989CC5EFE2FC075686`
 
 VellumVault is local-first. No account is required, and installer builds do not include any private campaign database or user notes.

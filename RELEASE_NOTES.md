@@ -1,23 +1,23 @@
-# VellumVault 0.1.3 Public Alpha
+# VellumVault 0.1.4 Public Alpha
 
-This public alpha adds the NPC Dossier upgrade for richer character records.
+This public alpha removes the experimental NPC Dossier interface and restores the simpler NPC manager while keeping the useful richer NPC fields.
 
 ## Download
 
-- `VellumVault_0.1.3_x64-setup.exe`
-- `VellumVault_0.1.3_x64_en-US.msi`
+- `VellumVault_0.1.4_x64-setup.exe`
+- `VellumVault_0.1.4_x64_en-US.msi`
 
 ## SHA-256
 
-- `VellumVault_0.1.3_x64-setup.exe`: `865003B9BD6C88FC67DD519E2256784F9F3635F1E84632B4F48A261E6459AA17`
-- `VellumVault_0.1.3_x64_en-US.msi`: `58E9A05206744698F22173F9FEE37CEDE461DC79C02A5372A5C9E83DCC6EB4B0`
+- `VellumVault_0.1.4_x64-setup.exe`: `C78C1C1BE39A38ECCA4AA3757B2053B3BD505BAF366219989CC5EFE2FC075686`
+- `VellumVault_0.1.4_x64_en-US.msi`: `DA8492FE9312EA19215055CB986E721532A52A02DDBB39B7B69D2829C83F983F`
 
-## Added
+## Changed
 
-- NPC Dossier mode with collapsible Identity, Roleplay, Story Pressure, Knowledge, Relationships, Daily Life, and Custom Sections.
-- Quick NPC / Major NPC dossier controls.
-- Custom NPC sections with visibility and searchable related-record links.
-- Paste Dossier import for notes with headings like Role, Personality, Current Pressures, Player-Visible Notes, and DM Notes.
+- Removed the experimental NPC Dossier interface after early feedback.
+- Restored NPC details to the standard structured field grid.
+- Kept richer NPC fields such as Story Function, Residence, Public Reputation, Private Reality, Daily Life, Current Pressures, Wounds and Regrets, and What They Know.
+- Important NPC character sheets remain available below the normal NPC details.
 
 ## Notes
 
