@@ -14,7 +14,7 @@ It does not contain VellumVault source code, private campaign data, exported bac
 ## Download
 
 - Website: https://codestest404-rgb.github.io/VellumVault-Downloads/
-- Latest release: https://github.com/codestest404-rgb/VellumVault-Downloads/releases/latest
+- Release 0.1.1: https://github.com/codestest404-rgb/VellumVault-Downloads/releases/tag/v0.1.1
 
 ## Current Public Alpha
 
