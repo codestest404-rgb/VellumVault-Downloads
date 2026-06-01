@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">VellumVault mark</title>
+  <desc id="desc">A brass vault shield with an open vellum book and keyhole.</desc>
+  <defs>
+    <radialGradient id="ember" cx="50%" cy="38%" r="62%">
+      <stop offset="0%" stop-color="#f7d889" />
+      <stop offset="44%" stop-color="#b98b43" />
+      <stop offset="100%" stop-color="#3a2614" />
+    </radialGradient>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#251b18" />
+      <stop offset="55%" stop-color="#0f1013" />
+      <stop offset="100%" stop-color="#06070a" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="9" flood-color="#c99a4b" flood-opacity="0.42" />
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.72" />
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#08090c" />
+  <path d="M256 42 423 96v131c0 105-63 195-167 243C152 422 89 332 89 227V96L256 42Z" fill="url(#panel)" stroke="url(#ember)" stroke-width="18" filter="url(#glow)" />
+  <path d="M148 165c44-24 76-22 108 1 32-23 64-25 108-1v164c-39-18-73-16-108 8-35-24-69-26-108-8V165Z" fill="#ead7a4" stroke="#b98b43" stroke-width="10" />
+  <path d="M256 166v171" stroke="#7b5a2d" stroke-width="8" />
+  <path d="M170 195c22-7 41-6 61 3M170 226c22-7 41-6 61 3M170 257c22-7 41-6 61 3M281 198c20-9 39-11 61-5M281 229c20-9 39-11 61-5M281 260c20-9 39-11 61-5" stroke="#4a3218" stroke-width="8" stroke-linecap="round" opacity="0.7" />
+  <circle cx="256" cy="246" r="30" fill="#111217" stroke="#d9aa55" stroke-width="10" />
+  <path d="M256 256v48" stroke="#d9aa55" stroke-width="12" stroke-linecap="round" />
+  <path d="M256 75 270 117 314 119 278 145 290 188 256 163 222 188 234 145 198 119 242 117 256 75Z" fill="#f6d77e" stroke="#8d642c" stroke-width="6" />
+</svg>

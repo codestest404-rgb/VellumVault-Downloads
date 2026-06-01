@@ -1,20 +1,20 @@
-# Chronicle Ledger 0.1.0 Public Alpha
+# VellumVault 0.1.1 Public Alpha
 
-This is the first public alpha Windows build of Chronicle Ledger by Red Thread Studios.
+This is the first public alpha Windows build of VellumVault by Red Vellum Studio.
 
 ## Download
 
-- `Chronicle.Ledger_0.1.0_x64-setup.exe`
-- `Chronicle.Ledger_0.1.0_x64_en-US.msi`
+- `VellumVault_0.1.1_x64-setup.exe`
+- `VellumVault_0.1.1_x64_en-US.msi`
 
 ## SHA-256
 
-- `Chronicle.Ledger_0.1.0_x64-setup.exe`: `B3DFF229B54ED9243DEF0CCBADA890D32611EB09671CC2722125C1CFFCDC5553`
-- `Chronicle.Ledger_0.1.0_x64_en-US.msi`: `BA53E4096853DA79C019CD4F0E692C51A439F0000C2ADE8A924FEED4764AE194`
+- `VellumVault_0.1.1_x64-setup.exe`: `937A27DF583C018E5C2A6A5B3C3130B1C75D077381F5909B5028A060CD138C60`
+- `VellumVault_0.1.1_x64_en-US.msi`: `C204CC437668AAA4C4133F3716F85453045342A1F6CDEA097015331C189D8588`
 
 ## Notes
 
-Chronicle Ledger is a local-first desktop campaign manager for long-form homebrew and 5e-style tabletop campaigns. It includes campaign dashboards, NPCs, factions, locations, sessions, quest and hook tracking, party sheets, local D&D Beyond PDF import, DM Screen, Session Prep, Encounter Tracker, backups, restore points, and local SQLite storage.
+VellumVault is a local-first desktop campaign manager for long-form homebrew and 5e-style tabletop campaigns. It includes campaign dashboards, NPCs, factions, locations, sessions, quest and hook tracking, party sheets, local D&D Beyond PDF import, DM Screen, Session Prep, Encounter Tracker, backups, restore points, and local SQLite storage.
 
 Privacy posture:
 
