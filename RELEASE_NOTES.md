@@ -1,16 +1,16 @@
-# VellumVault 0.1.1 Public Alpha
+# VellumVault 0.1.2 Public Alpha
 
-This is the first public alpha Windows build of VellumVault by Red Vellum Studio.
+This public alpha refreshes the VellumVault app logo across the download page and Windows desktop installer assets.
 
 ## Download
 
-- `VellumVault_0.1.1_x64-setup.exe`
-- `VellumVault_0.1.1_x64_en-US.msi`
+- `VellumVault_0.1.2_x64-setup.exe`
+- `VellumVault_0.1.2_x64_en-US.msi`
 
 ## SHA-256
 
-- `VellumVault_0.1.1_x64-setup.exe`: `937A27DF583C018E5C2A6A5B3C3130B1C75D077381F5909B5028A060CD138C60`
-- `VellumVault_0.1.1_x64_en-US.msi`: `C204CC437668AAA4C4133F3716F85453045342A1F6CDEA097015331C189D8588`
+- `VellumVault_0.1.2_x64-setup.exe`: `BD5ED8480B7C8983566C61CA82234D933C296ED70998AB70CBD920CBF947EF94`
+- `VellumVault_0.1.2_x64_en-US.msi`: `78873BA594C3BE55F2CE26806DBD358F0E646A4131F849D0802B00F62EC5F0D2`
 
 ## Notes
 
