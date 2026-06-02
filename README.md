@@ -13,7 +13,8 @@ It does not contain VellumVault source code, private campaign data, exported bac
 
 ## Download
 
-- Website: https://redvellum.github.io/
+- Website: https://redvellum.com/
+- GitHub Pages fallback: https://redvellum.github.io/
 - Release 0.1.4: https://github.com/RedVellum/RedVellum.github.io/releases/tag/v0.1.4
 
 ## Current Public Alpha
