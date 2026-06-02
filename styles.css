@@ -375,6 +375,32 @@ dd {
   padding-bottom: clamp(4rem, 7vw, 6rem);
 }
 
+.community-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(18rem, 25rem);
+  gap: clamp(1.5rem, 4vw, 3rem);
+  align-items: start;
+}
+
+.community-card {
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  background:
+    radial-gradient(circle at top right, rgba(141, 47, 47, 0.16), transparent 18rem),
+    linear-gradient(180deg, rgba(213, 168, 84, 0.09), transparent),
+    rgba(255, 255, 255, 0.045);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.06),
+    0 0 42px rgba(141, 47, 47, 0.14);
+}
+
+.community-card p {
+  margin: 0.9rem 0 1.25rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 .studio-section {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(15rem, 22rem);
@@ -454,6 +480,7 @@ dd {
   }
 
   .hero,
+  .community-section,
   .studio-section,
   .two-column {
     grid-template-columns: 1fr;
