@@ -1,23 +1,25 @@
-# VellumVault 0.1.4 Public Alpha
+# VellumVault 0.1.5 Public Alpha
 
-This public alpha removes the experimental NPC Dossier interface and restores the simpler NPC manager while keeping the useful richer NPC fields.
+This public alpha upgrades the local character creator and party sheets into a cleaner Red Vellum original character system.
 
 ## Download
 
-- `VellumVault_0.1.4_x64-setup.exe`
-- `VellumVault_0.1.4_x64_en-US.msi`
+- `VellumVault_0.1.5_x64-setup.exe`
+- `VellumVault_0.1.5_x64_en-US.msi`
 
 ## SHA-256
 
-- `VellumVault_0.1.4_x64-setup.exe`: `C78C1C1BE39A38ECCA4AA3757B2053B3BD505BAF366219989CC5EFE2FC075686`
-- `VellumVault_0.1.4_x64_en-US.msi`: `DA8492FE9312EA19215055CB986E721532A52A02DDBB39B7B69D2829C83F983F`
+- `VellumVault_0.1.5_x64-setup.exe`: `C1B52821E09C80388381F707A8C9436FBD2DEFD906175F4248B69CFBD5605BE9`
+- `VellumVault_0.1.5_x64_en-US.msi`: `DA1FCC2F086DD252849E2C6CBD53C65FFCAB75DBA36F8527322A904D181A4B42`
 
 ## Changed
 
-- Removed the experimental NPC Dossier interface after early feedback.
-- Restored NPC details to the standard structured field grid.
-- Kept richer NPC fields such as Story Function, Residence, Public Reputation, Private Reality, Daily Life, Current Pressures, Wounds and Regrets, and What They Know.
-- Important NPC character sheets remain available below the normal NPC details.
+- Rebuilt Character Creator as a guided flow: Basics, Species, Class, Subclass, Background, Ability Scores, Skills & Proficiencies, Combat, Equipment, Spells, Personality, and Review.
+- Added SRD 5.2.1 / Creative Commons attribution in-app and kept bundled rules data legally conservative.
+- Wired enabled Creator Forge content into character dropdowns for custom species, classes, subclasses, backgrounds, feats, spells, and equipment.
+- Added class and level filtering for spell choices where supported by local data.
+- Cleaned up Party Sheets with a session-ready stat header and clearer sections for overview, ability scores, saves, combat, equipment, spells, features, personality, notes, and campaign links.
+- Kept D&D Beyond PDF import local-only and improved the import review language so imported data is treated as a draft.
 
 ## Notes
 
