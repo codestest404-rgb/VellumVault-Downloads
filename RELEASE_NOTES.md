@@ -1,25 +1,24 @@
-# VellumVault 0.1.5 Public Alpha
+# VellumVault 0.1.6 Public Alpha
 
-This public alpha upgrades the local character creator and party sheets into a cleaner Red Vellum original character system.
+This public alpha cleans up Party Sheets into a focused character workspace.
 
 ## Download
 
-- `VellumVault_0.1.5_x64-setup.exe`
-- `VellumVault_0.1.5_x64_en-US.msi`
+- `VellumVault_0.1.6_x64-setup.exe`
+- `VellumVault_0.1.6_x64_en-US.msi`
 
 ## SHA-256
 
-- `VellumVault_0.1.5_x64-setup.exe`: `C1B52821E09C80388381F707A8C9436FBD2DEFD906175F4248B69CFBD5605BE9`
-- `VellumVault_0.1.5_x64_en-US.msi`: `DA1FCC2F086DD252849E2C6CBD53C65FFCAB75DBA36F8527322A904D181A4B42`
+- `VellumVault_0.1.6_x64-setup.exe`: `CB62008D85216C4DE42F2519ECFA00EF9A88AFD2246114FE6F2A597C41AE3FF8`
+- `VellumVault_0.1.6_x64_en-US.msi`: `7049C29C05AA90E6F2A4A279621F5DB3A0B91F72AC79C6728E472E353F94B819`
 
 ## Changed
 
-- Rebuilt Character Creator as a guided flow: Basics, Species, Class, Subclass, Background, Ability Scores, Skills & Proficiencies, Combat, Equipment, Spells, Personality, and Review.
-- Added SRD 5.2.1 / Creative Commons attribution in-app and kept bundled rules data legally conservative.
-- Wired enabled Creator Forge content into character dropdowns for custom species, classes, subclasses, backgrounds, feats, spells, and equipment.
-- Added class and level filtering for spell choices where supported by local data.
-- Cleaned up Party Sheets with a session-ready stat header and clearer sections for overview, ability scores, saves, combat, equipment, spells, features, personality, notes, and campaign links.
-- Kept D&D Beyond PDF import local-only and improved the import review language so imported data is treated as a draft.
+- Rebuilt Party Sheets into a cleaner roster-and-sheet workspace.
+- Added quick actions for Guided Creator, Blank Sheet, and Creator Forge.
+- Added a party snapshot with character count, average level, HP trackers, and best passive perception.
+- Kept existing saved character sheets compatible.
+- Preserved local-first storage and private campaign data behavior.
 
 ## Notes
 
