@@ -1,24 +1,25 @@
-# VellumVault 0.1.6 Public Alpha
+# VellumVault 0.1.7 Public Alpha
 
-This public alpha cleans up Party Sheets into a focused character workspace.
+This public alpha polish pass makes the app easier for first-time testers to understand, share, and support.
 
 ## Download
 
-- `VellumVault_0.1.6_x64-setup.exe`
-- `VellumVault_0.1.6_x64_en-US.msi`
+- `VellumVault_0.1.7_x64-setup.exe`
+- `VellumVault_0.1.7_x64_en-US.msi`
 
 ## SHA-256
 
-- `VellumVault_0.1.6_x64-setup.exe`: `CB62008D85216C4DE42F2519ECFA00EF9A88AFD2246114FE6F2A597C41AE3FF8`
-- `VellumVault_0.1.6_x64_en-US.msi`: `7049C29C05AA90E6F2A4A279621F5DB3A0B91F72AC79C6728E472E353F94B819`
+- `VellumVault_0.1.7_x64-setup.exe`: `514691F24694F32F0C707CD30DF3BCE05F5EFBC4258A096D2C85D487C4F59229`
+- `VellumVault_0.1.7_x64_en-US.msi`: `5D747236F8C19870560684CAE7164FAD59320B6C70DAF20012CB89E6E1E7C2E3`
 
 ## Changed
 
-- Rebuilt Party Sheets into a cleaner roster-and-sheet workspace.
-- Added quick actions for Guided Creator, Blank Sheet, and Creator Forge.
-- Added a party snapshot with character count, average level, HP trackers, and best passive perception.
-- Kept existing saved character sheets compatible.
-- Preserved local-first storage and private campaign data behavior.
+- Added a Dashboard Start Here checklist for campaign setup, party sheets, NPCs, hooks, prep, and backups.
+- Added Release & Support tools with website, release, Discord, support email, and copyable diagnostics.
+- Added a clearer Share Campaign Safely area that separates private backups from player-safe handouts.
+- Added a direct Run DM Screen action from Session Prep.
+- Cleaned the character sheet header and moved import safety notes into a collapsible section.
+- Updated About, Settings, package metadata, and desktop packaging metadata to 0.1.7.
 
 ## Notes
 
