@@ -1,25 +1,31 @@
-# VellumVault 0.1.7 Public Alpha
+# VellumVault 0.1.8 Public Alpha
 
-This public alpha polish pass makes the app easier for first-time testers to understand, share, and support.
+This public alpha focuses on first-time tester clarity, safer campaign sharing, and a cleaner guided character-creation path.
 
 ## Download
 
-- `VellumVault_0.1.7_x64-setup.exe`
-- `VellumVault_0.1.7_x64_en-US.msi`
+- `VellumVault_0.1.8_x64-setup.exe`
+- `VellumVault_0.1.8_x64_en-US.msi`
 
 ## SHA-256
 
-- `VellumVault_0.1.7_x64-setup.exe`: `514691F24694F32F0C707CD30DF3BCE05F5EFBC4258A096D2C85D487C4F59229`
-- `VellumVault_0.1.7_x64_en-US.msi`: `5D747236F8C19870560684CAE7164FAD59320B6C70DAF20012CB89E6E1E7C2E3`
+- `VellumVault_0.1.8_x64-setup.exe`: `6DC307AF3CA1335811A18476CF8299745DBB771B8C98F814C64E761D1B4DBD07`
+- `VellumVault_0.1.8_x64_en-US.msi`: `98CBF2EF6ED21C532CF05AD9E36CEE68DD60A449F9810A289812C1049434BD79`
 
 ## Changed
 
-- Added a Dashboard Start Here checklist for campaign setup, party sheets, NPCs, hooks, prep, and backups.
-- Added Release & Support tools with website, release, Discord, support email, and copyable diagnostics.
-- Added a clearer Share Campaign Safely area that separates private backups from player-safe handouts.
-- Added a direct Run DM Screen action from Session Prep.
-- Cleaned the character sheet header and moved import safety notes into a collapsible section.
-- Updated About, Settings, package metadata, and desktop packaging metadata to 0.1.7.
+- Added first-run onboarding reassurance for local storage, guided setup, and safe sharing.
+- Added Character Creator readiness progress with required fields, optional polish, and next-best-fix actions.
+- Improved Settings sharing tools with private/player-safe export counts and restore point visibility.
+- Clarified backup import warnings so users know local data will be replaced and restore points are created first.
+- Updated About and release metadata to 0.1.8.
+- Added a 0.1.8 alpha readiness checklist for installer checks, tester workflows, and public release validation.
+
+## Verification
+
+- `npm run build` passed.
+- `verify-desktop.ps1` passed readiness checks for Node, npm, Rust/Cargo, MSVC x64, Windows SDK, and Tauri config.
+- Native Tauri packaging generated both Windows installer bundles.
 
 ## Notes
 
