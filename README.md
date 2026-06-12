@@ -15,11 +15,11 @@ It does not contain VellumVault source code, private campaign data, exported bac
 
 - Website: https://redvellum.com/
 - GitHub Pages fallback: https://redvellum.github.io/
-- Release 0.1.9: https://github.com/RedVellum/RedVellum.github.io/releases/tag/v0.1.9
+- Release 0.1.10: https://github.com/RedVellum/RedVellum.github.io/releases/tag/v0.1.10
 
 ## Current Public Alpha
 
-- `VellumVault_0.1.9_x64-setup.exe`
-- SHA-256: `94A7FA8914FD39694B7830A7CA9553D6FD60B435A19B87905DC67B345AE33BFE`
+- `VellumVault_0.1.10_x64-setup.exe`
+- SHA-256: `5BC4E2B6BD5F69FB28059CF5A16EE5B8F01E1FC15FD6A500FA37824254F799FC`
 
 VellumVault is local-first. No account is required, and installer builds do not include any private campaign database or user notes.

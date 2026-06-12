@@ -1,26 +1,28 @@
-# VellumVault 0.1.9 Public Alpha
+# VellumVault 0.1.10 Public Alpha
 
-This public alpha expands the built-in Character Creator data with SRD 5.2.1 / Creative Commons-compatible spell and feat references.
+This public alpha expands table-running tools with dedicated Locations, Loot & Items, faster Encounter Tracker setup, and calmer spell selection.
 
 ## Download
 
-- `VellumVault_0.1.9_x64-setup.exe`
-- `VellumVault_0.1.9_x64_en-US.msi`
+- `VellumVault_0.1.10_x64-setup.exe`
+- `VellumVault_0.1.10_x64_en-US.msi`
 
 ## SHA-256
 
-- `VellumVault_0.1.9_x64-setup.exe`: `94A7FA8914FD39694B7830A7CA9553D6FD60B435A19B87905DC67B345AE33BFE`
-- `VellumVault_0.1.9_x64_en-US.msi`: `F3C06357B8D2AE48952DE904816CFE7123EBB7E1282EABCB66A55B8A6946B714`
+- `VellumVault_0.1.10_x64-setup.exe`: `5BC4E2B6BD5F69FB28059CF5A16EE5B8F01E1FC15FD6A500FA37824254F799FC`
+- `VellumVault_0.1.10_x64_en-US.msi`: `5F082C9184CD87E5C447066D4DD166921C42468A5ABA3193EB8EA49E31666314`
 
 ## Added
 
-- 339 SRD spell references with level, class availability, school, casting metadata, components, duration, concentration, and ritual flags where available.
-- 17 SRD feat references across Origin, General, Fighting Style, and Epic Boon categories.
+- Dedicated Locations tab with plane/world/region/settlement/point-of-interest layering, parent locations, map pins, and nearby/contained location panels.
+- Dedicated Loot & Items tab for prepping SRD-safe equipment, Creator Forge gear, treasure, clue items, and assigning items to player sheet inventories.
+- Encounter Tracker preloaded Red Vellum-original enemy templates and minimize/expand controls for long initiative lists.
+- Character Creator spell lists now collapse by spell level.
 - Version-aligned frontend, Tauri, Cargo, and package metadata.
 
 ## Notes
 
-- Built-in spell and feat data remains metadata-focused and does not bundle copied spell or feat rules text.
+- Built-in combat templates are original Red Vellum quick-start enemies, not copied monster stat blocks.
 - D&D Beyond import remains user-supplied and local-only.
 
 ## Verification
